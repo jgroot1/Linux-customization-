@@ -1,0 +1,22 @@
+general.live_config_reload = true
+
+[window]
+dimensions = { columns = 145, lines = 32 }
+opacity = 0.9
+
+dynamic_padding = true
+padding = {x = 20, y = 20}
+
+resize_increments = false
+
+[scrolling]
+multiplier = 5
+
+[font]
+normal = { family = "JetBrainsMono", style = "Regular" }
+
+[cursor]
+style = { shape = "Beam"}
+
+[mouse]
+hide_when_typing = true
