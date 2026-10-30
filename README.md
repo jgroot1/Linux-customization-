@@ -9,7 +9,7 @@ Terminal: [alacritty](https://alacritty.org/)
 
 background 
 
-![wallpaper.jpg](../../Pictures/wallpaper.jpg)
+![wallpaper.jpg](wallpaper.jpg)
 
 Gnome extensions:
 
