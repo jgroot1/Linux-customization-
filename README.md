@@ -6,7 +6,7 @@
 # Terminal: [alacritty](https://alacritty.org/)
 # background 
 
-![wallpaper.jpg](wallpaper.jpg)
+![wallpaper.png](wallpaper.png)
 
 # Gnome extensions:
 
