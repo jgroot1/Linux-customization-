@@ -22,4 +22,5 @@
 
 amsterdam is not really my location
 ![homescreen_apps_closed.png](homescreen_apps_closed.png)
+
 ![homescreen_apps_open.png](homescreen_apps_open.png)
