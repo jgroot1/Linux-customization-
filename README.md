@@ -6,6 +6,8 @@ Distro: [cachyos](https://cachyos.org/)
 Desktop environment: [gnome](https://www.gnome.org/)
 
 Terminal: [alacritty](https://alacritty.org/)
+Settings
+
 
 # background 
 
@@ -15,11 +17,19 @@ Terminal: [alacritty](https://alacritty.org/)
 
 [blur my shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 
+settingd
+
 [just perfections](https://extensions.gnome.org/extension/3843/just-perfection/)
 
-[app indicator](https://extensions.gnome.org/extension/615/appindicator-support/)
+settingd
 
-[widgets](https://github.com/r3nhick/desktop-widgetse)
+[app indicator](https://extensions.gnome.org/extension/615/appindicator-support/)
+settints
+
+
+[widgets](https://github.com/r3nhick/desktop-widgets)
+
+settinhs
 
 # Screenshots of my homescreen
 
